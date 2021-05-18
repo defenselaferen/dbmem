@@ -1,5 +1,5 @@
 # Settings Compiler
-CXX           = i686-linux-gnu-g++-8
+CXX           = g++
 AR            = ar
 
 # Flags Optimize
