@@ -1,0 +1,10 @@
+# ignore files
+*.o
+*.out
+*.a
+*.so
+*.manifest
+*.log
+
+# ignore folder
+obj/
